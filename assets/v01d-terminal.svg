@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="256" viewBox="0 0 960 256" role="img" aria-labelledby="title desc">
+  <title id="title">V01D-CALLSIGN terminal wordmark</title>
+  <desc id="desc">A minimal black engineering terminal with a violet prompt and mint cursor.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#262f3a"/>
+      <stop offset="0.52" stop-color="#10161d"/>
+      <stop offset="1" stop-color="#273138"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#75f5ba"/>
+      <stop offset="1" stop-color="#9dffd0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="956" height="252" rx="28" fill="#05070a" stroke="url(#edge)" stroke-width="4"/>
+
+  <circle cx="38" cy="34" r="7" fill="#ff7f88"/>
+  <circle cx="62" cy="34" r="7" fill="#ffe78d"/>
+  <circle cx="86" cy="34" r="7" fill="#77f2ad"/>
+
+  <text x="922" y="40" fill="#4b5663" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" text-anchor="end" letter-spacing="2">SYS://IDENT</text>
+
+  <path d="M45 135c18-34 34 34 55 0s37 34 57 0" fill="none" stroke="#a885ff" stroke-width="13" stroke-linecap="round"/>
+  <path d="M185 108l29 27-29 27" fill="none" stroke="url(#mint)" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter"/>
+
+  <text x="260" y="150" fill="#f4f7fb" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="70" font-weight="750" letter-spacing="3">V01D</text>
+  <text x="460" y="150" fill="#7f8b98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="53" font-weight="650" letter-spacing="3">CALLSIGN</text>
+  <rect x="875" y="96" width="8" height="58" rx="2" fill="#75f5ba"/>
+
+  <line x1="260" y1="178" x2="883" y2="178" stroke="#18212b" stroke-width="2"/>
+  <text x="260" y="208" fill="#66727f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.5">AUTONOMY / EMBEDDED / DEEP SPACE</text>
+</svg>

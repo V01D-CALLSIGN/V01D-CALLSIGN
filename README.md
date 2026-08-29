@@ -1,92 +1,42 @@
-<div align="center">
-
-# VOID
-
-`software / machines / physics / the space between`
-
-<sub>engineering systems that sense, reason, and move.</sub>
-
-</div>
-
-<br>
+<table>
+  <tr>
+    <td width="27%" align="center" valign="middle">
+      <img src="./assets/v01d-interceptor.gif" width="190" alt="Animated stealth aircraft scanner portrait">
+    </td>
+    <td width="73%" align="center" valign="middle">
+      <img src="./assets/v01d-terminal.svg" width="690" alt="V01D-CALLSIGN — autonomy, embedded, deep space">
+    </td>
+  </tr>
+</table>
 
 ```console
 void@lab:~$ whoami
-student  /  builder  /  programmer
-robotics-minded, physics-curious
-usually debugging something that moves
+student engineer // software · hardware · physics
+building systems that sense, decide, and occasionally refuse to cooperate
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<pre>
-          ┌───┐
-     lidar│ ◉ │
-          └─┬─┘
-     ┌──────┴──────┐
-  ◉──┤  CAM   Rπ   ├──◉
- ╱▓▓╲│  ┌───────┐  │╱▓▓╲
-▐▓▓▓▓│  │ AUTO  │  │▓▓▓▓▌
- ╲▓▓╱└──┴───────┴──┘╲▓▓╱
-      ╲··· road ···╱
-
- perception → planning → control
-</pre>
-</td>
-<td width="50%" valign="top">
-<pre>
-      ·        ✦
-  ✧                     ·
-            ☼
-           ╱ ╲
-      ·   ╱   ╲      ☆
-         (  ◉  ) ─ ─ ─
-          ╲___╱
-       .-'     '-.
-    · (  orbit  →  )   ·
-       '-._____.-'
-
-   light → transit → signal
-</pre>
-</td>
-</tr>
-</table>
-
-## `~/what-i-know-and-what-im-learning`
+### `// stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,vite&theme=dark" alt="Programming languages and web technologies">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css,react,vite&theme=dark" alt="Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, React, and Vite">
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,aws,git,github,vscode,linux,arch,arduino,raspberrypi&theme=dark" alt="Tools, platforms, and hardware">
+  <img src="https://skillicons.dev/icons?i=nodejs,aws,git,github,vscode,linux,arch,arduino,raspberrypi&theme=dark" alt="Node.js, AWS, Git, GitHub, VS Code, Linux, Arch Linux, Arduino, and Raspberry Pi">
 </p>
 
-## `~/interests`
+### `// signal`
 
 ```text
-[01] autonomous systems        [05] machine learning
-[02] embedded electronics      [06] physics + exoplanets
-[03] computer vision           [07] CAD + 3D printing
-[04] robotics                  [08] photography
+[01] autonomous systems       [05] machine learning
+[02] embedded electronics     [06] physics / exoplanets
+[03] computer vision          [07] CAD / 3D printing
+[04] software engineering     [08] photography
 ```
 
-## `~/currently`
+### `// currently`
 
 ```yaml
-learning:
-  - perception and autonomy
-  - embedded systems
-  - machine learning
-building:
-  - robotic systems
-  - engineering experiments
-observing:
-  - light, motion, and occasional compiler errors
-status: operational
+learning:  [autonomous robotics, embedded systems, perception]
+building:  engineering experiments
+watching:  transit curves, sensor noise, compiler warnings
+status:    operational
 ```
-
-<div align="center">
-
-<sub><code>VOID@github:~$ awaiting next experiment_</code></sub>
-
-</div>
