@@ -12,7 +12,6 @@
 ```console
 void@lab:~$ whoami
 student engineer // software · hardware · physics
-building systems that sense, decide, and occasionally refuse to cooperate
 ```
 
 ### `// stack`
@@ -38,6 +37,8 @@ building systems that sense, decide, and occasionally refuse to cooperate
   <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="44" height="44" title="Arch Linux" alt="Arch Linux">
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="44" height="44" title="Arduino" alt="Arduino">
   <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="44" height="44" title="Raspberry Pi" alt="Raspberry Pi">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" title="Figma" alt="Figma">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/onshape-dark.svg" width="44" height="44" title="Onshape" alt="Onshape">
   <img src="./assets/helium.svg" width="44" height="44" title="Helium Browser" alt="Helium Browser">
 </p>
 
@@ -45,16 +46,7 @@ building systems that sense, decide, and occasionally refuse to cooperate
 
 ```text
 [01] autonomous systems       [05] machine learning
-[02] embedded electronics     [06] physics / exoplanets
+[02] electrical engineering   [06] physics / exoplanets
 [03] computer vision          [07] CAD / 3D printing
 [04] software engineering     [08] photography
-```
-
-### `// currently`
-
-```yaml
-learning:  [autonomous robotics, embedded systems, perception]
-building:  engineering experiments
-watching:  transit curves, sensor noise, compiler warnings
-status:    operational
 ```
