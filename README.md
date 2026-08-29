@@ -12,6 +12,7 @@
 ```console
 void@users:~$ whoami
 student engineer // software · hardware · physics
+I use Arch btw.
 ```
 
 ### `// stack`
@@ -46,8 +47,9 @@ student engineer // software · hardware · physics
 ### `// signal`
 
 ```text
-[01] autonomous systems       [05] machine learning
-[02] electrical engineering   [06] physics / exoplanets
-[03] computer vision          [07] CAD / 3D printing
-[04] software engineering     [08] photography
+[01] electrical engineering
+[02] machine learning
+[03] physics / exoplanets
+[04] CAD
+[05] autonomous systems
 ```
