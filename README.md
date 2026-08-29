@@ -26,17 +26,19 @@ I use Arch btw.
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" title="TypeScript" alt="TypeScript">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" title="HTML" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" title="CSS" alt="CSS">
+  <br>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" title="React" alt="React">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="44" height="44" title="Vite" alt="Vite">
-  <br>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="44" height="44" title="Node.js" alt="Node.js">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="44" height="44" title="AWS" alt="AWS">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" title="Git" alt="Git">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" title="GitHub" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" title="Visual Studio Code" alt="Visual Studio Code">
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ghostty.svg" width="44" height="44" title="Ghostty Terminal" alt="Ghostty Terminal">
+  <br>
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" title="Linux" alt="Linux">
   <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="44" height="44" title="Arch Linux" alt="Arch Linux">
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="44" height="44" title="Kali Linux" alt="Kali Linux">
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="44" height="44" title="Arduino" alt="Arduino">
   <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" width="44" height="44" title="Raspberry Pi" alt="Raspberry Pi">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="44" height="44" title="Figma" alt="Figma">
