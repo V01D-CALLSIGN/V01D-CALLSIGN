@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="32%" align="center" valign="middle">
-      <img src="./assets/v01d-interceptor.gif" width="290" alt="F-22 Raptor flyby">
+      <img src="./assets/f22-flyby.gif" width="290" alt="F-22 Raptor flyby">
     </td>
     <td width="68%" align="center" valign="middle">
       <img src="./assets/v01d-terminal.svg" width="620" alt="V01D-CALLSIGN — autonomy, embedded, deep space">
