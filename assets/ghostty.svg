@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="768"
+   width="920"
    height="920"
-   viewBox="0 0 768 920"
+   viewBox="0 0 920 920"
    sodipodi:docname="ghostty.png"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -42,10 +42,17 @@
        margin="0"
        bleed="0" />
   </sodipodi:namedview>
+  <rect
+     width="920"
+     height="920"
+     rx="180"
+     fill="#242938"
+     id="background" />
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g1">
+     id="g1"
+     transform="translate(168 110.5) scale(.76)">
     <image
        width="768"
        height="920"

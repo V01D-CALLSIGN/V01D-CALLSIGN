@@ -26,6 +26,7 @@ I use Arch btw.
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" title="TypeScript" alt="TypeScript">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" title="HTML" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="44" height="44" title="CSS" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="44" height="44" title="Supabase" alt="Supabase">
   <br>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="44" height="44" title="React" alt="React">
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="44" height="44" title="Vite" alt="Vite">
