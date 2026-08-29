@@ -10,7 +10,7 @@
 </table>
 
 ```console
-void@lab:~$ whoami
+void@users:~$ whoami
 student engineer // software · hardware · physics
 ```
 
