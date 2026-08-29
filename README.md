@@ -34,9 +34,10 @@ I use Arch btw.
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="44" height="44" title="Git" alt="Git">
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="44" height="44" title="GitHub" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" title="Visual Studio Code" alt="Visual Studio Code">
-  <img src="./assets/ghostty-linux.png" width="44" height="44" title="Ghostty Terminal" alt="Ghostty Terminal">
+  <img src="./assets/ghostty.png" width="44" height="44" title="Ghostty Terminal" alt="Ghostty Terminal">
   <img src="./assets/homebrew.svg" width="44" height="44" title="Homebrew" alt="Homebrew">
   <br>
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="44" height="44" title="Bash" alt="Bash">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="44" height="44" title="Linux" alt="Linux">
   <img src="https://skillicons.dev/icons?i=arch&theme=dark" width="44" height="44" title="Arch Linux" alt="Arch Linux">
   <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="44" height="44" title="Kali Linux" alt="Kali Linux">
